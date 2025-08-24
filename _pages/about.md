@@ -16,6 +16,17 @@ Here is a list of domains which I am actively seeking to master everyday:
 - C and C++
 - Blender/ 2d graphics
 
+<br>
+
+---
+
+<br>
+
 You can know more about me:
-- CV
-    - 
+- Formal documents
+    - [CV](https://insanexyz.github.io/resume/cv/)
+    - [Projects/ Portfolio](https://insanexyz.github.io/resume/portfolio/)
+- Writings
+    - [Papers](https://insanexyz.github.io/resume/publications/)
+- My personal website
+    - [Insanelogs](https://insanelogs.xyz)
