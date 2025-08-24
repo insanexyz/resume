@@ -11,35 +11,69 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* VIT Bhopal University, Bhopal <br>
+  B.Tech – Computer Science and Engineering <br>
+  Specialization: Cyber Security and Digital Forensics
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Odin project
+    - Worked on one pull request to add a resource to the existing curriculum
+    - [pull request]()
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Mypaint linux app
+    - Fixed a bug on mypaint application which made it possible to run on Arch linux.
+    - [Link]()
+
+
+Projects
+========
+* Insanelogs - Logs of Insane
+    - I log my learnings and tech journey in this site. I try to write them in such a way so others can read and learn from it too.
+    - [Project link]()
+    - Tech stack: Jekyll - ruby, js, html, css, markdown
+
+* Simple Password Manager
+    - A simple password manager made using plain html, css, js which stores user credentials in their browser profiles.
+    - [Project link]()
+    - Tech stack: html, css, javascript
+
+* Infinite 2D runner game
+    - Infinite 2d platformer style runner game made using pygame python library.
+    - [Project link]()
+    - Tech stack: python, pygame library
+
+* Arch wiki news scrapper
+    - A website scrapper made in python using bs4 library to fetch latest news from archlinux.org home page.
+    - [Project link]()
+    - Tech stack: python, bs4 library, lxml parser
+
+* Pacman QDT remover
+    - Python script to automate the removal of orphan packages in Arch Linux.
+    - [Project link]()
+    - Tech stack: python
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages - python, java, lua, C, C++ (intermediate)
+* Web devlopment (intermediate)
+* Linux system administration (intermediate)
+* Arduino programming (beginner)
+* DSA (intermediate)
+
+Languages
+======
+* Hindi     - native
+* English   - proficient
+* Japanese  - learning
+
+Hobbies
+======
+* Gym
+* MMA (Mixed martial arts)
+* Gaming
+* Japanese media
 
 Publications
 ======
@@ -47,18 +81,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
